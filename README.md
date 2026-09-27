@@ -1,4 +1,4 @@
-Customer & Order Analysis
+#Customer & Order Analysis
 About the Project
 
 This is a MySQL project where I worked with customer and order data to analyze customer purchases, spending, orders and products.
