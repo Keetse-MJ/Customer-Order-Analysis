@@ -8,8 +8,8 @@ MySQL
 SQL
 
 ## What I Practiced
-INNER JOIN
-LEFT JOIN
+- `INNER JOIN `
+- `LEFT JOIN `
 Multiple-table JOINs
 UNION
 CASE statements
